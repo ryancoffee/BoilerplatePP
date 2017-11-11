@@ -1,10 +1,12 @@
 {
-	"full_name": "John Smith",
-	"email": "john@smith.com",
-	"github_username": "johnsmith",
-	"project_name": "BoilerplatePP",
-	"repo_name": "boilerplate_pp",
-	"project_short_description": "BoilerplatePP contains all the boilerplate you need to create an C++ Program.",
-	"year": "2013",
-	"version": "0.1.0"
+	"full_name": "Ryan N Coffee",
+	"email": "coffee@slac.stanford.edu",
+	"github_username": "ryancoffee",
+	"project_name": "awesomnessPP",
+	"repo_name": "awesomness_pp",
+	"project_short_description": "awesomnessPP contains all the boilerplate you need to create an awesome C++ Program.",
+	"year": "2017",
+	"version": "0.0.0",
+	"main_name": "main",
+	"personal_include_dir": "/cpp/include"
 }
